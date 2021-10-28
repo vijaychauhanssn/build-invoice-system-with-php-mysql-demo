@@ -8,7 +8,7 @@ Git Clone [Invoice System](https://github.com/vijaychauhanssn/build-invoice-syst
 
 ## Author
  Vijaychauhanssn
-## [Demo](https://phpzag.000webhostapp.com/build-invoice-system-with-php-mysql-demo/)
+## [Demo](https://peoplewhocode.blogspot.com/2019/05/build-invoice-system-with-php-mysql.html)
 
 ![REg](https://2.bp.blogspot.com/-C3qR_iBhKEE/XO5ojRbOrGI/AAAAAAAAJms/T0lnHH1CmDEfhYROfw1XJ9biRRukITEEACLcBGAs/s1600/2019-05-29-16-27-localhost.png) 
 ![Login](https://4.bp.blogspot.com/-Q87mppF-N6k/XO5oq8zbUlI/AAAAAAAAJmw/D2rdZ6MNoho7SMdGme8w0VU52xcHHLcrwCLcBGAs/s1600/2019-05-29-16-28-localhost%2B%25281%2529.png) 
