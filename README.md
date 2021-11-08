@@ -36,7 +36,7 @@ Git Clone [Invoice System](https://github.com/vijaychauhanssn/build-invoice-syst
 In order to start the project use:
 
 ```bash
-$ git clone https://phpzag.000webhostapp.com/build-invoice-system-with-php-mysql-demo/
+$ git clone https://github.com/vijaychauhanssn/build-invoice-system-with-php-mysql-demo
 $ cd build-invoice-system-with-php-mysql-demo
 ```
 
